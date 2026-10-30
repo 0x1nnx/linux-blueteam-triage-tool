@@ -1,0 +1,48 @@
+# Blue Team reports and collected evidence
+blueteam_*.txt
+blueteam_*.txt.sha256
+system_summary_*.txt
+*.log
+*.evidence
+
+# Sensitive information
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+authorized_keys
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Backup files
+*.bak
+*.old
+*.backup
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SSH private keys
+*.pub.tmp
+*.ppk
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Generated archives
+*.tar
+*.tar.gz
+*.zip
