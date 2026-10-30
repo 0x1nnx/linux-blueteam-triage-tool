@@ -120,7 +120,7 @@ The following utilities are optional and provide additional information:
 Clone the repository:
 
 ```bash
-git clone https://github.com/0x1nnx/linux-blueteam-triage.git
+git clone https://github.com/0x1nnx/linux-blueteam-triage-tool.git
 ```
 
 Navigate into the project directory:
