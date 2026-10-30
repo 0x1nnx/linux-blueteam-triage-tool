@@ -126,7 +126,7 @@ git clone https://github.com/0x1nnx/linux-blueteam-triage-tool.git
 Navigate into the project directory:
 
 ```bash
-cd linux-blueteam-triage
+cd linux-blueteam-triage-tool
 ```
 
 Make the script executable:
@@ -212,7 +212,7 @@ Planned enhancements include:
 ## Project Structure
 
 ```text
-linux-blueteam-triage/
+linux-blueteam-triage-tool/
 ├── blueteam.sh
 ├── README.md
 ├── LICENSE
